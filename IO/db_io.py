@@ -34,6 +34,3 @@ class SwPeople(Base):
     species = Column(String)
     starships = Column(String)
     vehicles = Column(String)
-
-
-
